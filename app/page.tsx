@@ -69,7 +69,7 @@ export default function Home() {
             marginTop: "30px",
             padding: "15px 35px",
             background: "#d4af37",
-            color: "#fff",
+            color: "fff",
             borderRadius: "12px",
             textDecoration: "none",
             fontWeight: "bold",
@@ -93,7 +93,7 @@ export default function Home() {
           style={{
             fontSize: "2.5rem",
             marginBottom: "20px",
-            color: "#b8860b",
+            color: "b8860b",
           }}
         >
           Nossa Essência
